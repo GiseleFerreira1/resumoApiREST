@@ -10,7 +10,7 @@ Curiosidade: Não é necessário saber todos os detalhes sobre o armazenamento e
 
 ## O que é API REST? 🚀
 
-API REST, também chamada de API RESTful é uma interface de programação de aplicações em conformidade com as restrições do estilo de arquitetura REST, permitindo a interação com serviços web RESTful. Essas APIs são uma forma leve e flexível de integrar aplicativos e conectar componentes em arquiteturas de microsserviços.
+API REST, é uma interface para projetar e desenvolver interfaces de programação de aplicações web em conformidade com as restrições do estilo de arquitetura REST, permitindo a interação com serviços web RESTful. Essa APIs possue simplicidade, compatibilidade e escalabilidade, e é uma forma leve e flexível de integrar aplicativos e conectar componentes em arquiteturas de microsserviços.
 
 ## O que é a API RESTful? 🚀
 
@@ -46,7 +46,7 @@ Os códigos de status HTTP indicam o resultado da requisição.
 - **Server Error:** Indica que o servidor falhou ao cumprir uma requisição.
 
 
- Autor do resumo: Gisele Ferreira - 01523879 ❤️
+ Autora do resumo: Gisele Ferreira - 01523879 ❤️
 
 
 
